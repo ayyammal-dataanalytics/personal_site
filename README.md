@@ -7,7 +7,9 @@ Features:
 - Responsive design  
 
 ## Screenshot
-![Website Screenshot](screenshot.png)
+![Website Screenshot](Homepage-Screenshot.png)
+![Website Screenshot](Aboutpage-Screenshot.png)
+![Website Screenshot](contactpage-Screenshot.png)
 
 ## Tech Stack
 - Python
